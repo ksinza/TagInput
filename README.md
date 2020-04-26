@@ -1,6 +1,6 @@
 # TagInput
     #setting 
-This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in KsBlazor. KsBlazor  is a  components library to Blazor platform  
+This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in KsBlazor. KsBlazor  is a  components library to Blazor platform  to made by Kevin Sinza 
 
 how to use?
     
