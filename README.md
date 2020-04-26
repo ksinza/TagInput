@@ -1,8 +1,8 @@
 # TagInput
     #setting 
-This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in KsBlazor. KsBlazor  is a  components library to Blazor platform  to made by Kevin Sinza 
+This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in KsBlazor. KsBlazor  is a  components library to Blazor platform  made by Kevin Sinza 
 
-how to use?
+#how to use?
     
     BlazorServer in _Host.cshtml or blazor webassembly in index.html to put the next line in the header:
     
@@ -27,3 +27,4 @@ how to use?
        }
    }
 
+# customise CSS 
