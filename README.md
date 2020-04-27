@@ -3,6 +3,11 @@
 This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in KsBlazor. KsBlazor  is a  components library to Blazor platform  made by Kevin Sinza 
 
 #how to use?
+    #install
+    Install-Package KsBlazor -Version 1.0.0 or paket add KsBlazor --version 1.0.0
+    
+    https://www.nuget.org/packages/KsBlazor/
+    
     
     BlazorServer in _Host.cshtml or blazor webassembly in index.html to put the next line in the header:
     
