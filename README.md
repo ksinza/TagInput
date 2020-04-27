@@ -17,7 +17,9 @@ This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in K
 
     
     In the component(yourcomponent.razor) that you want to use  you  must put the next:
-
+    
+    @using KsBlazor.TagInput
+    
     <TagInput Dataset="dataSet"   SelectEvent="selectEvent"></TagInput>
     
     @code{
