@@ -37,7 +37,8 @@ This is a input to select tag  to BlazorServer or Blazor WebAssembly. It is in K
    }
 
     #customise CSS 
-    
+        the next style already it is done in library,  this is to show you   the  class rules   and you can edit how you wish it.
+        
         style default
         
             .mainSelect {
